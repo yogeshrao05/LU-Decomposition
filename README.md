@@ -59,8 +59,8 @@ To wirte a program to find the lu decomposition of a matrix
 Program:
 ```
 '''Program to solve a matrix using LU decomposition.
-Developed by: 
-RegisterNumber: 
+Developed by: yogesh rao
+RegisterNumber: 212222110055
 '''
 
 # To print X matrix (solution to the equations)
